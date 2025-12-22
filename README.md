@@ -60,10 +60,10 @@ python video_license_plate_detection.py --input your_video.mp4
 
 ## 📊 Sample Output
 - Example CSV (plates.csv):
-textTrack ID,Plate Number
-1,R-183-JF
-3,N-894-JV
-4,L-656-XH
+- textTrack ID,Plate Number
+- 1,R-183-JF
+- 3,N-894-JV
+- 4,L-656-XH
 
 
 
