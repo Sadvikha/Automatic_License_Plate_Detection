@@ -70,7 +70,7 @@ Example CSV (plates.csv):
 ## 🔧 Limitations & Improvements
 
 - Accuracy: ~70-80% on real traffic videos (Haar cascade is basic; sensitive to lighting/angles).
-Future Ideas:
+# Future Ideas:
 - Switch to YOLOv8 for 95%+ detection accuracy.
 - Add speed estimation or violation detection.
 - Web dashboard for results.
