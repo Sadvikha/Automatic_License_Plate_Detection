@@ -8,7 +8,7 @@ Outputs:
 
 Built as an extension of traditional image-based ANPR for real-time road safety and traffic monitoring applications.
 
-![Example Output](output_video_.mp4) <!-- Replace with your actual screenshot if available -->
+![Example Output](output.jpg) <!-- Replace with your actual screenshot if available -->
 
 ## 🧠 Project Overview
 
