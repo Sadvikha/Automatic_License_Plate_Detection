@@ -58,7 +58,7 @@ python video_license_plate_detection.py --input your_video.mp4
 ```
 
 
-### 📊 Sample Output
+## 📊 Sample Output
 - Example CSV (plates.csv):
 textTrack ID,Plate Number
 1,R-183-JF
@@ -67,7 +67,7 @@ textTrack ID,Plate Number
 
 
 
-🔧 Limitations & Improvements
+## 🔧 Limitations & Improvements
 
 Accuracy: ~70-80% on real traffic videos (Haar cascade is basic; sensitive to lighting/angles).
 Future Ideas:
@@ -76,12 +76,12 @@ Add speed estimation or violation detection.
 Web dashboard for results.
 
 
-📚 References
+## 📚 References
 
-Inspired by: Sadvikha/License-Plate-Detection-and-Road-Safety-System
-SORT Tracking: Original implementation by Alex Bewley.
+- Inspired by: Sadvikha/License-Plate-Detection-and-Road-Safety-System
+- SORT Tracking: Original implementation by Alex Bewley.
 
 
-📫 Contact
-Feel free to fork, star, or open issues! Contributions welcome.
+## 📫 Contact
+- Feel free to fork, star, or open issues! Contributions welcome.
 GitHub: Sadvikha
