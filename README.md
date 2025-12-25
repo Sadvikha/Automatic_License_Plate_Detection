@@ -51,7 +51,7 @@ Ideal for applications like traffic enforcement, violation detection, or vehicle
 
 Local Setup
 ```Bash
-git clone https://github.com/YOUR_USERNAME/Video-License-Plate-Detection-ANPR.git
+git clone https://github.com/Sadvikha/Video-License-Plate-Detection-ANPR.git
 cd Video-License-Plate-Detection-ANPR
 pip install easyocr opencv-python filterpy scipy lap
 python video_license_plate_detection.py --input your_video.mp4
